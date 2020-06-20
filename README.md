@@ -1,6 +1,7 @@
 Make your own coronavirus plot
 ================
 [Matthew Aldridge](https://mpaldridge.github.io)
+
 16 June 2020
 
 Data collection
