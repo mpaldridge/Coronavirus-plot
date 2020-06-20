@@ -7,7 +7,7 @@ output: github_document
 
 ## Data collection
 
-We can collect the data from the government's Coronavirus data website.
+We can collect the data from [the government's Coronavirus data website](https://coronavirus.data.gov.uk/).
 
 ```{r}
 govdata <- read.csv("https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv")
