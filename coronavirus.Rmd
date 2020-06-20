@@ -1,7 +1,7 @@
 ---
 title:  "Make your own coronavirus plot"
 author: "[Matthew Aldridge](https://mpaldridge.github.io)"
-date:   "16 June 2020"
+date:   "20 June 2020"
 output: github_document
 ---
 
