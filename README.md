@@ -7,7 +7,7 @@ Make your own coronavirus plot
 Data collection
 ---------------
 
-We can collect the data from [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/908755/COVID-19_Death_Series_20200812.xlsx](this Government Excel spreadsheet) (https://www.google.com)[Google]. But I neatened it up a bit first.
+We can collect the data from [this Government Excel spreadsheet](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/908755/COVID-19_Death_Series_20200812.xlsx). But I neatened it up a bit first in the file `new-cov.csv`.
 
 ``` r
 govdata <- read.csv("/new-cov.csv")
