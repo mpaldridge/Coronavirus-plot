@@ -10,7 +10,7 @@ Data collection
 We can collect the data from [this Government Excel spreadsheet](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/908755/COVID-19_Death_Series_20200812.xlsx). But I neatened it up a bit first in the file `new-cov.csv`.
 
 ``` r
-govdata <- read.csv("/new-cov.csv")
+govdata <- read.csv("https://raw.githubusercontent.com/mpaldridge/coronavirus-plot/master/new-cov.csv")
 ```
 The reporting date is in fact a date.
 
